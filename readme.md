@@ -1,4 +1,4 @@
-A simple yet powerful way to visualizer 4xdat trades.
+A simple yet powerful way to visualize 4xdat trades using the MetaTrader4 platform.
 
 Notes:
 Make sure the CSV file is not aggregated as a spreadsheet (see the attached example file).
